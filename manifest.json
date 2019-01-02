@@ -17,10 +17,6 @@
       "src": "images/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
-    }, {
-      "src": "images/icons/icon-256x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
     }],
   "start_url": "./angint1.html",
   "display": "standalone",
